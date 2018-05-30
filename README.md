@@ -1,4 +1,5 @@
 #### Run dolphin as root in Plasma desktop
+Workaround for "Executing Dolphin as root is not possible" issue
 
 Tested on Fedora KDE 27/28 64bit
 
