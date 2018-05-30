@@ -4,7 +4,7 @@ Tested on Fedora KDE 27/28 64bit
 
 Tested on Ubuntu KDE 18 64bit
 
-#How to install
+###How to install
 
 Find preinstalled binaries location:
 find / -name "./libkdeinit5_dolphin.so"
